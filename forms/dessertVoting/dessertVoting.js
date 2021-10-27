@@ -16,7 +16,7 @@ drpDesserts.onclick=function(s){
       return                    
     else {  // the user picked something
       drpDesserts.value = s     // make dropdown show choice the user made
-      lblPrompt.value =`You picked ${s} - that is a great choice!.`
+      lblPrompt.value =`You picked ${s} - that is a great choice!`
   }
 }
 
